@@ -1,0 +1,11 @@
+git init 
+
+//replce the link with the acutual one on gitub 
+git remote add origin https://github.com/YourUsername/github-ml-data-analysis.git 
+
+git add . 
+
+git commit -m "Initial commit: Add ML GitHub Data Analysis Project" 
+
+git branch -M main
+git push -u origin main 
